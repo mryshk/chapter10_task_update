@@ -77,6 +77,7 @@
   .box-item {
     margin: 0 auto;
     margin-bottom: 20px;
+    width: 90%;
   }
   .common-box {
     height: 150px;
